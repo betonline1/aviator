@@ -1,0 +1,120 @@
+Uri: https://aviatorpredict.com/apple-touch-icon.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/assets/img/flags/az.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\az.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/img/flags/bn.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\bn.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/img/flags/de.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\de.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/img/flags/es.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\es.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/img/flags/fr.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/img/flags/in.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\in.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/img/flags/ko.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\ko.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/img/flags/pt.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\pt.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/img/flags/tr.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\tr.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/img/flags/uk.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\uk.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/img/flags/uz.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\img\flags\uz.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/assets/js/scripts.js
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://aviatorpredict.com/css/css/styles.css
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\css\css\styles.css
+Content Type: text/css
+
+Uri: https://aviatorpredict.com/favicon-16x16.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/favicon-32x32.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/favicon.ico
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://aviatorpredict.com/files/1.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\files\1.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/files/2.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\files\2.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/files/3.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\files\3.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/files/4.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\files\4.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/files/5.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\files\5.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/media/live/1win.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\media\live\1win.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/media/live/1xbet.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\media\live\1xbet.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/media/live/betano.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\media\live\betano.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/media/live/bitcasino.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\media\live\bitcasino.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/media/live/casinozer.png
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\media\live\casinozer.png
+Content Type: image/png
+
+Uri: https://aviatorpredict.com/safari-pinned-tab.svg
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://aviatorpredict.com/site.webmanifest
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://aviatorpredict.com/tr/
+File Name: C:\Users\CASPER\Desktop\aviaotrr\aviatorpredict.com\tr\index.htm
+Content Type: text/html
+
